@@ -74,7 +74,7 @@
 
 
 
-![snake gif](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/EtherMan786/etherman786/blob/f70c5895e05030d0977d17284b689695c4c9e3a6/.github/workflows/github-snake.svg)
 
 
 
