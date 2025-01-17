@@ -67,10 +67,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EtherMan786&show_icons=true&locale=en" alt="EtherMan786" /></p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EtherMan786&" alt="EtherMan786" />
-</p>
+</p> -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Etherman786&border_radius=5.9&short_numbers=true)](https://git.io/streak-stats)
 
 
 
