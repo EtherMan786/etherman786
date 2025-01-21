@@ -73,7 +73,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Etherman786&border_radius=5.9&short_numbers=true)](https://git.io/streak-stats) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Etherman786&border_radius=5.9&short_numbers=true" alt="EtherMan786" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Etherman786&border_radius=5.9&short_numbers=true" alt="EtherMan786" /></p> -->
 
 ![snake gif](https://github.com/EtherMan786/etherman786/blob/f70c5895e05030d0977d17284b689695c4c9e3a6/.github/workflows/github-snake-dark.svg)
 
